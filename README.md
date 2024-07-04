@@ -16,7 +16,7 @@
 - Flatlist
 
 ## Screenshots😎
-<img src="assets/projectImages/Screenshot(1.1).png" width="200" />
+<img src="./assets/projectImages/Screenshot(1.1).png" width="200" />
 <img src="https://github.com/GitHarshalPatil/fratelli_fruits_appln/assets/projectImages/Screenshot(1.1).png" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b3a4b5f6-16bc-450f-b81f-65d2743acf02" width="200" /> 
 
 

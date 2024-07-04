@@ -18,7 +18,7 @@
 ## Screenshots😎
 
 <img src="src/assets/projectImages/Screenshot(1.1).png" width="200" />
-<img src="https://github.com/GitHarshalPatil/fratelli_fruits_appln/src/assets/projectImages/Screenshot(1.1).png" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b3a4b5f6-16bc-450f-b81f-65d2743acf02" width="200" /> 
+<img src="https://github.com/GitHarshalPatil/fratelli_fruits_appln/assets/projectImages/Screenshot(1.1).png" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b3a4b5f6-16bc-450f-b81f-65d2743acf02" width="200" /> 
 
 
 <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/85fad8fe-0ec1-440c-8313-45dd82a45bad" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b0bd7210-7d18-4219-a9e3-ff0f2b9e0547" width="200" /> 

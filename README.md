@@ -17,12 +17,12 @@
 
 ## Screenshots😎
 
-<img src="src/assets/projectImages/Screenshot(1.1).png" width="300" height="200px" />
-<img src="src/assets/projectImages/Screenshot(1.2).png" width="400" height="250" />  
-<img src="src/assets/projectImages/Screenshot(1.3).png" width="300" />  
-<img src="src/assets/projectImages/Screenshot(1.4).png" width="400" />  
-<img src="src/assets/projectImages/Screenshot(1.5).png" width="350" />  
-<img src="src/assets/projectImages/Screenshot(1.6).png" width="250" />  
+<img src="src/assets/projectImages/Screenshot(1.1).png" width="400" height="250px" /><img src="src/assets/projectImages/Screenshot(1.2).png" width="400" height="250" />  
+
+
+<img src="src/assets/projectImages/Screenshot(1.3).png" width="400" height="250" /><img src="src/assets/projectImages/Screenshot(1.4).png" width="400" height="250" />  
+
+<img src="src/assets/projectImages/Screenshot(1.5).png" width="400" height="250" /> <img src="src/assets/projectImages/Screenshot(1.6).png" width="400" height="250" />  
 
 <!-- <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/85fad8fe-0ec1-440c-8313-45dd82a45bad" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b0bd7210-7d18-4219-a9e3-ff0f2b9e0547" width="200" /> 
 <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/27548416-d910-48bb-a59c-57ace7c06e68" width="200" />  -->

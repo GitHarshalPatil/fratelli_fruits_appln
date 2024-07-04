@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+## 🔗 Hi, I'm Harshal! 👋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [@Harshal Patil](https://github.com/GitHarshalPatil)
 
-## Available Scripts
+- 🚀React Application Developer.
 
-In the project directory, you can run:
+## Technology Used🧑‍💻
 
-### `npm start`
+- React
+- MongoDB
+- NodeJS.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## React Components⚒
+- Redux
+- Custom components develope
+- Flatlist
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Screenshots😎
+<img src="assets\projectImages\Screenshot (1.1).png" width="200" />
+<img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/da5648fb-5223-4592-b3a5-c159e7d99bb5" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b3a4b5f6-16bc-450f-b81f-65d2743acf02" width="200" /> 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/85fad8fe-0ec1-440c-8313-45dd82a45bad" width="200" /> <img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/b0bd7210-7d18-4219-a9e3-ff0f2b9e0547" width="200" /> 
+<img src="https://github.com/Rohit-Jorvekar/edible-oil-sell/assets/126452105/27548416-d910-48bb-a59c-57ace7c06e68" width="200" /> 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features📓
+- User Authentication – Utilizes Firebase phone authentication for secure user login.
+- Product Management – Allows adding, editing, and deleting edible oil products with details like name, price, quantity, etc.
+- Order Processing – Enables users to place orders for edible oils and track their order status.
+- Payment Integration – Integrates with payment gateways to facilitate secure online payments.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Functionality📝
+- Manage product inventory and sales – Users can add, update, and track their edible oil products and sales within the app.
+- Order tracking – Allows users to monitor the status of their orders, including processing, shipping, and delivery.
+- Customer management – Provides tools for managing customer information, preferences, and purchase history.
+- Sales analytics – Includes built-in analytics for monitoring sales performance, trends, and profitability.
+- Integration with payment gateways – Enables secure online payments for orders through integrated payment gateways.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Feedback
+We value your feedback! Please send us your suggestions and comments at harshalpatil1847@gmail.com.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Optimizations
+- Continuous updates and improvements based on user feedback and market trends.
+- Enhanced security measures to protect user data and transactions.
+- Integration with additional APIs for enhanced functionality, such as real-time shipping tracking and customer support chat.
+- Performance optimizations for smooth and responsive user experience across devices.
+## Contributing
+- Contributions are welcome! Visit our GitHub repository to learn how you can contribute to the project.

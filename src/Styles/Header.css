@@ -1,0 +1,54 @@
+.cal {
+    /* background-image: url('../../assets/fratelli-img/images/shapes/ripped-paper-primary-up.png'); */
+    background-image: url('../assets/fratelli-img/images/shapes/ripped-paper-primary-up.png');
+    height: 15px;
+}
+
+/* .set-width{
+    height: 70px;
+    width: 50px;
+} */
+
+.links {
+    padding: 0 20px 0 20px;
+    text-decoration: none;
+    font-size: 24px !important;
+    color: rgba(3, 2, 2, 0.741) !important;
+    position: relative;
+}
+
+.links::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: orangered;
+    transition: 0.3s;
+}
+
+.links:hover::before {
+    width: 100%;
+}
+
+.butt button {
+    /* background: #f56a79; */
+    transition: 0.2s linear;
+}
+
+.butt button:hover {
+    background: #fbb1a6;
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+        justify-content: center;
+    }
+}
+
+.nav-link:hover {
+    background-color: #eeebe9 !important;
+}

@@ -1,0 +1,276 @@
+/* All headings */
+.heading {
+    font-size: 46px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    color: #255946;
+}
+
+/*Sub heading  */
+.sub-heading {
+    font-weight: bold;
+    /* padding-bottom: 30px; */
+    color: #255946;
+}
+
+/* Start 1st Section */
+/* .image {
+    background-image: url('../../../assets/fratelli-img/banner4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+    opacity: 0.9;
+}
+
+@media (max-width: 767px) {
+    .image {
+        height: 250px;
+    }
+} */
+.image {
+    /* background-image: url('../../../assets/fratelli-img/images/main-slider/fratelli1.jpg'); */
+    background-image: url('../assets/fratelli-img/images/main-slider/fratelli1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100vw !important;
+    /* opacity: 0.9; */
+    /* position: relative; */
+}
+
+.cal {
+    /* background-image: url('../../../assets/fratelli-img/images/shapes/ripped-paper-header-1.png'); */
+    background-image: url('../assets/fratelli-img/images/shapes/ripped-paper-header-1.png');
+    height: 15px;
+    /* background-color: #255946; */
+    /* position: fixed; */
+    /* z-index: 1; */
+}
+
+.cal2 {
+    /* background-image: url('../../../assets/fratelli-img/images/shapes/bottom.png'); */
+    background-image: url('../assets/fratelli-img/images/shapes/white-bottom.png');
+    height: 15px;
+    width: 100vw;
+    top:-14px;
+    position: relative;
+}
+
+/* @media (max-width: 767px) {
+    .image {
+        height: 800px;
+    }
+} */
+
+.content {
+    position: absolute;
+    top: 40%;
+    display: flex;
+    justify-content: space-evenly !important;
+    align-items: center;
+    left: 35%;
+    transform: translate(-50%, -50%);
+}
+
+.anim {
+    position: relative;
+    left: 6%;
+    top: 50px;
+}
+
+.wi-anim {
+    position: relative;
+    right: -90%;
+    top: 70px;
+}
+
+.wi-anim-2 {
+    position: relative;
+    right: -77%;
+    top: -45px;
+}
+
+.wi-anim-3 {
+    position: relative;
+    right: -75%;
+    top: 75px;
+}
+
+
+.content h1 {
+    font-size: 80px;
+    color: white;
+    font-family: cursive;
+    font-weight: 700 !important;
+    position: relative;
+    left: 35%;
+    top: 50px;
+}
+
+@media (min-width: 577px) and (max-width: 992px) {
+    .image {
+        height: 450px;
+    }
+
+    .anim {
+        position: relative;
+        top: -25px;
+        /* bottom: 30px; */
+        left: 5px;
+        height: 300px;
+        width: 300px;
+    }
+
+    .content h1 {
+        font-size: 55px;
+        position: relative;
+        top: -25px;
+        /* bottom: 30px; */
+        left: 50px;
+        /* top: 20px; */
+    }
+}
+
+
+@media (max-width: 576px) {
+    .image {
+        height: 250px;
+    }
+
+    .anim {
+        position: relative;
+        top: -25px;
+        /* bottom: 30px; */
+        left: 5px;
+        height: 180px;
+        width: 180px;
+    }
+
+    .content h1 {
+        font-size: 35px;
+        position: relative;
+        top: -25px;
+        /* bottom: 30px; */
+        left: 30px;
+        /* top: 20px; */
+    }
+}
+
+/* Example animation for the images and text */
+.anim,
+.content p {
+    animation: moveContent 3500ms ease-in-out infinite alternate;
+}
+
+@keyframes moveContent {
+    0% {
+        transform: translateX(0) translateY(0);
+    }
+
+    25% {
+        transform: translateX(20px) translateY(0);
+        /* Move to the right */
+    }
+
+    50% {
+        transform: translateX(20px) translateY(-20px);
+        /* Move up */
+    }
+
+    75% {
+        transform: translateX(0) translateY(-20px);
+        /* Move to the left */
+    }
+
+    100% {
+        transform: translateX(0) translateY(0);
+        /* Back to the starting position */
+    }
+}
+
+
+
+/* End Section */
+
+/* start Our Partner */
+.pat-img {
+    margin-bottom: 30px;
+    /* Adjusted margin for proper distance */
+    text-align: center;
+    /* Center the image within the container */
+}
+
+.pat-img img {
+    max-width: 100%;
+    /* Make images responsive */
+    height: auto;
+}
+
+.pat-logo {
+    margin-top: 30px;
+}
+
+/* End Our Partner */
+
+/* Start Carousel */
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.card img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.card {
+    margin: 0 0.5em;
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    border-radius: 0;
+}
+
+.card img:hover {
+    transform: scale(1.05);
+    transition: transform 0.35s cubic-bezier(0.4, 0.12, 0.4, 0.85);
+}
+
+.carousel-inner {
+    padding: 1em;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: #e1e1e1;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+@media (min-width: 768px) {
+    .card img {
+        height: 11em;
+    }
+}
+
+.back {
+    box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+    height: 60vh;
+    width: 100%;
+}
+
+/* Start carousel horizontally */
+.set-ht img{
+    width: 470px;
+    height: 265px;
+}
+
+.carousel-text {
+    /* font-weight: bold; */
+    /* padding-bottom: 30px; */
+    color: #255946;
+    font-size: 28px;
+}
+

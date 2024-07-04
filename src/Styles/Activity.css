@@ -1,0 +1,28 @@
+.heading {
+    font-size: 46px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    color: #255946;
+  }
+
+  /*Sub heading  */
+.sub-heading{
+    font-weight: bold;
+    /* padding-bottom: 30px; */
+    color: #255946;
+  }
+  .he-ba-color{
+    background-color: #255946;
+    color: #ffff;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: cursive;
+  }
+
+  /* @media (min-width: 768px) and (max-width:1024px){
+ .col-md-8{
+  max-width: 100%;
+  height: auto;
+ }
+  } */
+  
